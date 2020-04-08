@@ -13,6 +13,10 @@
     "lint": "eslint .",
     "test": "jest --coverage"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xenianick/ahj-homework_1.1-1.2.git"
+  },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.0",
